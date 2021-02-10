@@ -1,15 +1,15 @@
-# hw18-progressive-budget
-Assignment: Progressive Budget
-
 # Assignment: Fitness Tracker
 
 ## Description
 
-For this assignment, we were asked to to create the backend for a fitness tracker. I used a Mongo database with a Mongoose schema and handled routes with Express.
+For this assignment, we were asked to to add functionality to the existing Budget Tracker application to allow for offline access and functionality.
+
+In this app, the user will be able to add expenses and deposits to their budget with or without a Internet connection. When entering transactions offline, entries should populate the total when brought back online.
 
 ## Table of Contents
 
 - [Usage](#usage)
+- [Features](#features)
 - [License](#license)
 - [Badges](#badges)
 
@@ -18,6 +18,18 @@ For this assignment, we were asked to to create the backend for a fitness tracke
 - Live Site: [https://hw18-progressive-budget-njc.herokuapp.com/](https://hw18-progressive-budget-njc.herokuapp.com/)
 
 - Site Screenshot:![./public/images/site-screenshot.png](./public/images/site-screenshot.png)
+
+## Features
+
+Offline Functionality:
+
+  * Enter deposits offline
+
+  * Enter expenses offline
+
+When brought back online:
+
+  * Offline entries are added to tracker.
 
 ## License
 
