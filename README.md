@@ -15,9 +15,9 @@ For this assignment, we were asked to to create the backend for a fitness tracke
 
 ## Usage
 
-- Live Site: [https://hw17-fitness-tracker-njc.herokuapp.com/](https://hw17-fitness-tracker-njc.herokuapp.com/)
+- Live Site: [https://hw18-progressive-budget-njc.herokuapp.com/](https://hw18-progressive-budget-njc.herokuapp.com/)
 
-- Site Screenshot:![./public/assets/images/site-screenshot.png](./public/assets/images/site-screenshot.png)
+- Site Screenshot:![./public/images/site-screenshot.png](./public/images/site-screenshot.png)
 
 ## License
 
